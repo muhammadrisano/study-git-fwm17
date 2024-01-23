@@ -1,0 +1,1 @@
+const descriptionProfile = "lorem5"
